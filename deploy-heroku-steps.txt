@@ -1,0 +1,13 @@
+1   write code
+2   remove debug=True from app.run()
+3   create "Procfile" file:
+    web: gunicorn <file name of app object>:app
+4   create "runtime.txt" file:
+    python-3.7.5
+    [or any supported python version by heroku: https://devcenter.heroku.com/articles/python-support#supported-runtimes]
+5   $ heroku login
+    $ heroku create <app-name>
+6   $ pip freeze > requirements.txt
+    $ git add .
+7   $ git commit -m "message here"
+8   $ git push heroku master

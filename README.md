@@ -1,6 +1,7 @@
 # Python Projects
 
-## [01 Flask Blog*](https://rrka3flaskblog.herokuapp.com/)
+## [01 Flask Blog](https://rrka3flaskblog.herokuapp.com/)
+[source code](https://github.com/rrkas/PythonFlaskBlog)  
 A fully functional blog web app using flask.  
 
 ## [02 Pandas](https://github.com/rrkas/PythonPanda)

@@ -1,14 +1,17 @@
 # Python Projects
 
-## [01 Flask Blog](https://rrka3flaskblog.herokuapp.com/)
-[source code](https://github.com/rrkas/PythonFlaskBlog)  
+## 01 Flask Blog
+[Endpoint](https://rrka3flaskblog.herokuapp.com/)  
+[Source Code](https://github.com/rrkas/PythonFlaskBlog)  
 A fully functional blog web app using flask.  
 
-## [02 Pandas](https://github.com/rrkas/PythonPanda)
-Using pandas for data analysis.  
-[Dataset source](https://insights.stackoverflow.com/survey)
+## 02 Pandas
+[Repo with code](https://github.com/rrkas/PythonPanda)  
+[Dataset Source](https://insights.stackoverflow.com/survey)  
+Using pandas for data analysis.
 
-## [03 Image to PDF Converter](https://rrka4imagestopdf.herokuapp.com/)
+## 03 Image to PDF Converter
+[Endpoint](https://rrka4imagestopdf.herokuapp.com/)  
 [Source Code](https://github.com/rrkas/ImgToPdfFlask)
 
 ## References and Resources
@@ -16,3 +19,7 @@ Using pandas for data analysis.
  2. [Bootstrap 4 starter template](https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template)
  3. [strftime() and strptime() Format Codes](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-format-codes)
  4. [pandas datetime frequency codes](https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html#dateoffset-objects)
+
+
+## Profile
+[Rohnak Agarwal](https://rrka79wal.herokuapp.com/)

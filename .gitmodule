@@ -1,9 +1,0 @@
-[submodule "01FlaskBlog"]
-	path = 01FlaskBlog
-	url = git@github.com:rrkas/PythonFlaskBlog.git
-[submodule "02Pandas"]
-    path = 02Pandas
-    url = git@github.com:rrkas/PythonPanda.git
-[submodule "03ImgToPdfFlask"]
-    path = 03ImgToPdfFlask
-    url = git@github.com:rrkas/ImgToPdfFlask.git

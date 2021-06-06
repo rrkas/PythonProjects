@@ -14,6 +14,14 @@ Using pandas for data analysis.
 [Endpoint](https://rrka4imagestopdf.herokuapp.com/)  
 [Source Code](https://github.com/rrkas/ImgToPdfFlask)
 
+## 04 Matplotlib
+[Source Codes](https://github.com/rrkas/matplotlibtutorial)
+
+## 05 Django Blog
+EndPoint  
+[Source Code](https://github.com/rrkas/DjangoTutorial)
+
+
 ## References and Resources
  1. [Heroku supported runtimes for python](https://devcenter.heroku.com/articles/python-support#supported-runtimes)
  2. [Bootstrap 4 starter template](https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template)

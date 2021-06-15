@@ -22,7 +22,7 @@ Using pandas for data analysis.
 [Source Code](https://github.com/rrkas/DjangoTutorial)
 
 ## 06 PDF Master
-[EndPoint](https://rrka6pdfmaster.herokuapp.com/)
+[EndPoint](https://rrka6pdfmaster.herokuapp.com/)  
 [Source Code](https://github.com/rrkas/PdfMaster)
 
 ## References and Resources

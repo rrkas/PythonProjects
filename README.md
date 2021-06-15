@@ -18,9 +18,12 @@ Using pandas for data analysis.
 [Source Codes](https://github.com/rrkas/matplotlibtutorial)
 
 ## 05 Django Blog
-EndPoint  
+[EndPoint](https://rrka5djangoblog.herokuapp.com/)  
 [Source Code](https://github.com/rrkas/DjangoTutorial)
 
+## 06 PDF Master
+[EndPoint](https://rrka6pdfmaster.herokuapp.com/)
+[Source Code](https://github.com/rrkas/PdfMaster)
 
 ## References and Resources
  1. [Heroku supported runtimes for python](https://devcenter.heroku.com/articles/python-support#supported-runtimes)

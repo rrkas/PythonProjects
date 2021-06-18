@@ -25,6 +25,14 @@ Using pandas for data analysis.
 [EndPoint](https://rrka6pdfmaster.herokuapp.com/)  
 [Source Code](https://github.com/rrkas/PdfMaster)
 
+## 07 ML*
+[notes and codes](https://github.com/rrkas/AI-ML)
+
+## 08 text-share
+[Source Code](https://github.com/rrkas/text-share)  
+
+
+
 ## References and Resources
  1. [Heroku supported runtimes for python](https://devcenter.heroku.com/articles/python-support#supported-runtimes)
  2. [Bootstrap 4 starter template](https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template)
